@@ -1,0 +1,21 @@
+.main{
+    border: 2px solid black;
+    width: 20%;
+    height: 100vh;
+    /* background-color : #1A237E */
+    background-image: linear-gradient(to left, #1A237E, #303F9F);
+    
+}
+.list{
+    display: "inline-block";
+    margin-right: "8px";
+    
+}
+.white{
+    color:white;
+
+}
+.head{
+    margin-bottom: 10px;
+    font-size: 20px;
+}

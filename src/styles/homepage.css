@@ -1,0 +1,14 @@
+.homepage{
+    display: flex;
+    background-color: #f8f0f0
+}
+.displayblock{
+    flex: initial; /* Resetting the flex behavior */
+    display: block;
+    /* border: 2px solid red; */
+    margin-top: 90px;
+    width: 70%;
+    position: absolute;
+    left: 25%;
+   
+}
